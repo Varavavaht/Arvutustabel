@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arvutustabel", "Arvutustabel\Arvutustabel.csproj", "{65492D29-FD11-4593-A453-5007CFA6E79A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "ConsoleApp1\Array.csproj", "{95A1DBAE-1233-4876-9366-33B39EE7218B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{65492D29-FD11-4593-A453-5007CFA6E79A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65492D29-FD11-4593-A453-5007CFA6E79A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65492D29-FD11-4593-A453-5007CFA6E79A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95A1DBAE-1233-4876-9366-33B39EE7218B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95A1DBAE-1233-4876-9366-33B39EE7218B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95A1DBAE-1233-4876-9366-33B39EE7218B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95A1DBAE-1233-4876-9366-33B39EE7218B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
