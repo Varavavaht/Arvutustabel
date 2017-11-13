@@ -1,0 +1,6 @@
+C:\Users\opilane\Desktop\c#\Arvutustabel\Arvutustabel\bin\Debug\Arvutustabel.exe.config
+C:\Users\opilane\Desktop\c#\Arvutustabel\Arvutustabel\bin\Debug\Arvutustabel.exe
+C:\Users\opilane\Desktop\c#\Arvutustabel\Arvutustabel\bin\Debug\Arvutustabel.pdb
+C:\Users\opilane\Desktop\c#\Arvutustabel\Arvutustabel\obj\Debug\Arvutustabel.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Desktop\c#\Arvutustabel\Arvutustabel\obj\Debug\Arvutustabel.exe
+C:\Users\opilane\Desktop\c#\Arvutustabel\Arvutustabel\obj\Debug\Arvutustabel.pdb
