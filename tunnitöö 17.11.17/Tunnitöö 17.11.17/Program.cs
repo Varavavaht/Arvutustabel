@@ -10,7 +10,7 @@ namespace Tunnitöö_17._11._17
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello    World!");
             Console.ReadLine();
         }
     }
